@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="" />
+    <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/101. Symmetric Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/111. Minimum Depth of Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/119. Pascal's Triangle II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/125. Valid Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1351. Count Negative Numbers in a Sorted Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1352. Product of the Last K Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/141. Linked List Cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/142. Linked List Cycle II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/143. Reorder List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Remove Nth Node From End of List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Add Two Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/206. Reverse Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21. Merge Two Sorted Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/226. Invert Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24. Swap Nodes in Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/257. Binary Tree Paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/344. Reverse String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35. Search Insert Position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. ZigZag Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/622. Design Circular Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69. Sqrt(x).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/700. Search in a Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Palindrome Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +42,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xk2ywSLktKeW30pqGBRaV40Xhw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python/Sorting_Algorithms_pycharm" />
   </component>
@@ -159,6 +192,17 @@
       <updated>1581576029813</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
