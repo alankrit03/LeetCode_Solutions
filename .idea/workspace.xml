@@ -2,31 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/101. Symmetric Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/111. Minimum Depth of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/119. Pascal's Triangle II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/125. Valid Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1351. Count Negative Numbers in a Sorted Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1352. Product of the Last K Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/141. Linked List Cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/142. Linked List Cycle II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/143. Reorder List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Remove Nth Node From End of List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Add Two Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/206. Reverse Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21. Merge Two Sorted Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/226. Invert Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24. Swap Nodes in Pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/257. Binary Tree Paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/344. Reverse String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35. Search Insert Position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. ZigZag Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/622. Design Circular Queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/69. Sqrt(x).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/700. Search in a Binary Search Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9. Palindrome Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1359. Count All Valid Pickup and Delivery Options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1363. Largest Multiple of Three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/509. Fibonacci Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/70. Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/83. Remove Duplicates from Sorted List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,7 +178,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
