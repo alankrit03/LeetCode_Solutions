@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1359. Count All Valid Pickup and Delivery Options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1363. Largest Multiple of Three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/509. Fibonacci Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/70. Climbing Stairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/83. Remove Duplicates from Sorted List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1038. Binary Search Tree to Greater Sum Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/372. Super Pow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50. Pow(x,n).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/538. Convert BST to Greater Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/779. K-th Symbol in Grammar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/95. Unique Binary Search Trees II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
