@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/117. Populating Next Right Pointers in Each Node II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1380. Lucky Numbers in a Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1381. Design a Stack With Increment Operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1382. Balance a Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +37,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRank_DataStructures" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.51. N-Queens">
-    <configuration name="153. Find Minimum in Rotated Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1381. Design a Stack With Increment Operation">
+    <configuration name="1381. Design a Stack With Increment Operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1381. Design a Stack With Increment Operation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1381. Design a Stack With Increment Operation" />
         <item itemvalue="Python.51. N-Queens" />
         <item itemvalue="Python.LinkedList" />
         <item itemvalue="Python.37. Sudoku Solver" />
         <item itemvalue="Python.980. Unique Paths III" />
-        <item itemvalue="Python.153. Find Minimum in Rotated Sorted Array" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +184,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583569468034" />
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1584280683991">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584280683991" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1584280683990">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584280683990" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1584280683990">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584280683990" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1584280683990">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584280683990" />
     <state x="277" y="75" key="SettingsEditor" timestamp="1583559551113">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
