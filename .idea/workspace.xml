@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1380. Lucky Numbers in a Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1381. Design a Stack With Increment Operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1382. Balance a Binary Search Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1385. Find the Distance Value Between Two Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1389. Create Target Array in the Given Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1390. Four Divisors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,26 +184,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583569468034" />
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1584280683991">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1584358082759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584280683991" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1584280683990">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584358082759" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1584358082759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584280683990" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1584280683990">
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584358082759" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1584358082759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584280683990" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1584280683990">
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584358082759" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1584358082759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584280683990" />
-    <state x="277" y="75" key="SettingsEditor" timestamp="1583559551113">
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584358082759" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1584358072014">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583559551113" />
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584358072014" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583569454748">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
