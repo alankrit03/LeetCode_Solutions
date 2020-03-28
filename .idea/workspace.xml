@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1385. Find the Distance Value Between Two Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1389. Create Target Array in the Given Order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1390. Four Divisors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/173. Binary Search Tree Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/701. Insert into a Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
