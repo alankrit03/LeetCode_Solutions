@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/173. Binary Search Tree Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/701. Insert into a Binary Search Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/154. Find Minimum in Rotated Sorted Array II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167. Two Sum II - Input array is sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/283. Move Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/287. Find the Duplicate Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/349. Intersection of Two Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/350. Intersection of Two Arrays II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/367. Valid Perfect Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41. First Missing Positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49. Group Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53. Maximum Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/653. Two Sum IV - Input is a BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66. Plus One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/724. Find Pivot Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/744. Find Smallest Letter Greater Than Target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/747. Largest Number At Least Twice of Others.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88. Merge Sorted Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRank_DataStructures" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.1381. Design a Stack With Increment Operation">
+  <component name="RunManager" selected="Python.287. Find the Duplicate Number">
     <configuration name="1381. Design a Stack With Increment Operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="37. Sudoku Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="154. Find Minimum in Rotated Sorted Array II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37. Sudoku Solver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/154. Find Minimum in Rotated Sorted Array II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="51. N-Queens" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="283. Move Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51. N-Queens.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/283. Move Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="980. Unique Paths III" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="287. Find the Duplicate Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/980. Unique Paths III.py" />
+      <option name="SCRIPT_NAME" value="E:\LeetCode_Solutions\287. Find the Duplicate Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="367. Valid Perfect Square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/367. Valid Perfect Square.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.287. Find the Duplicate Number" />
+        <item itemvalue="Python.154. Find Minimum in Rotated Sorted Array II" />
+        <item itemvalue="Python.283. Move Zeroes" />
+        <item itemvalue="Python.367. Valid Perfect Square" />
         <item itemvalue="Python.1381. Design a Stack With Increment Operation" />
-        <item itemvalue="Python.51. N-Queens" />
-        <item itemvalue="Python.LinkedList" />
-        <item itemvalue="Python.37. Sudoku Solver" />
-        <item itemvalue="Python.980. Unique Paths III" />
       </list>
     </recent_temporary>
   </component>
@@ -179,34 +194,50 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1583569468034">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1585979363540">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583569468034" />
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1584358082759">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585979363540" />
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1586237436123">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584358082759" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1584358082759">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586237436123" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1586237436123">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584358082759" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1584358082759">
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586237436123" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1586237436122">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584358082759" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1584358082759">
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586237436122" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1586237436123">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584358082759" />
-    <state x="277" y="75" key="SettingsEditor" timestamp="1584358072014">
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586237436123" />
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1585985286027">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584358072014" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583569454748">
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585985286027" />
+    <state width="1514" height="277" key="GridCell.Tab.1.center" timestamp="1585985286027">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583569454748" />
+    <state width="1514" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585985286027" />
+    <state width="1514" height="277" key="GridCell.Tab.1.left" timestamp="1585985286026">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585985286026" />
+    <state width="1514" height="277" key="GridCell.Tab.1.right" timestamp="1585985286027">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585985286027" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1585979372131">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585979372131" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585450285209">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585450285209" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
