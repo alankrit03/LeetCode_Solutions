@@ -6,30 +6,37 @@
 
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        print(l1.val)
-        arr1 = [str(l1.val)]
-        arr2 = [str(l2.val)]
+        carry = 0
+        head = None
+        while l1 or l2:
+            if l1 and l2:
+                temp = l1.val + l2.val + carry
+                if not head:
+                    head = ListNode(temp % 10)
+                    carry = temp // 10
+                    ptr = head
+                else:
+                    ptr.next = ListNode(temp % 10)
+                    carry = temp // 10
+                    ptr = ptr.next
+                l1 = l1.next
+                l2 = l2.next
 
-        while l1.next:
-            l1 = l1.next
-            arr1.insert(0, str(l1.val))
+            elif l1:
+                temp = l1.val + carry
+                ptr.next = ListNode(temp % 10)
+                carry = temp // 10
+                ptr = ptr.next
+                l1 = l1.next
 
-        while l2.next:
-            l2 = l2.next
-            arr2.insert(0, str(l2.val))
+            else:
+                temp = l2.val + carry
+                ptr.next = ListNode(temp % 10)
+                carry = temp // 10
+                ptr = ptr.next
+                l2 = l2.next
 
-        value = int(''.join(arr1)) + int(''.join(arr2))
+        if carry:
+            ptr.next = ListNode(carry)
 
-        result = ListNode(value % 10)
-        value = value // 10
-
-        ptr = result
-        while value:
-            ptr1 = ListNode(value % 10)
-            ptr.next = ptr1
-            value = value // 10
-            ptr = ptr1
-
-        # print(ptr1.val)
-
-        return result
+        return head

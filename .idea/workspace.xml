@@ -2,25 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/154. Find Minimum in Rotated Sorted Array II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/167. Two Sum II - Input array is sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/283. Move Zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/287. Find the Duplicate Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/349. Intersection of Two Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/350. Intersection of Two Arrays II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/367. Valid Perfect Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41. First Missing Positive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49. Group Anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53. Maximum Subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/653. Two Sum IV - Input is a BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66. Plus One.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/724. Find Pivot Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/744. Find Smallest Letter Greater Than Target.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/747. Largest Number At Least Twice of Others.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/88. Merge Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/118. Pascal's Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Longest Common Prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/155. Min Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/160. Intersection of Two Linked Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/189. Rotate Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/203. Remove Linked List Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27. Remove Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. Implement strStr().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/328. Odd Even Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/485. Max Consecutive Ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/498. Diagonal Traverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/543. Diameter of Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/561. Array Partition I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67. Add Binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/707. Design Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/844. Backspace String Compare.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/209. Minimum Size Subarray Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/209. Minimum Size Subarray Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

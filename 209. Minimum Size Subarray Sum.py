@@ -1,43 +1,37 @@
-def minSubArrayLen(s, nums):
-    i=-1
-    n=len(nums)
-    sum_ = 0
-    while i<n and sum_<s:
-        print(sum_)
-        i += 1
-        sum_+=nums[i]
+class Solution:
+    def minSubArrayLen(self, s: int, nums) -> int:
+        j = 0
+        n = len(nums)
+        sum_ = 0
 
-    if i==n and sum_<s:
-        return 0
-    j=0
-    print(sum_)
-    while 1:
-        if sum_ - arr[j] >=s:
-            sum_ -= arr[j]
-            j+=1
-        else:
-            break
+        while j < n and sum_ < s:
+            sum_ += nums[j]
+            j += 1
 
-    print(f'subarray at this point = {nums[j: i + 1]} i={i} j={j} sum = {sum_}')
-    while i < n-1 :
+        if j == n and sum_ < s:
+            return 0
 
-        sum_-=nums[j]
-        sum_ += nums[i+1]
-        j+=1
-        i+=1
+        i = 0
 
-        while 1:
-            if sum_ - arr[j] >= s:
-                sum_ -= arr[j]
+        while j < n:
+
+            if sum_ - nums[i] >= s:
+                sum_ -= nums[i]
+                i += 1
+            else:
+                sum_ -= nums[i]
+                sum_ += nums[j]
+                i += 1
                 j += 1
+
+        while sum_ >= s and i < n:
+            if sum_ - nums[i] >= s:
+                sum_ -= nums[i]
+                i += 1
             else:
                 break
 
-        print(f'subarray at this point = {nums[j: i + 1]} i={i} j={j} sum = {sum_}')
-
-
-
-    return i-j+1
+        return j - i
 
 
 
@@ -47,5 +41,5 @@ def minSubArrayLen(s, nums):
 sum_=8
 arr=[2,3,1,2,4,3,1,6,2,7]
 
-ans = minSubArrayLen(sum_,arr)
+ans = Solution.minSubArrayLen(sum_,arr)
 print('ans = ',ans)
