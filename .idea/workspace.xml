@@ -2,25 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/118. Pascal's Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14. Longest Common Prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/155. Min Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/160. Intersection of Two Linked Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/189. Rotate Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/203. Remove Linked List Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. Remove Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Implement strStr().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/328. Odd Even Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/485. Max Consecutive Ones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/498. Diagonal Traverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/543. Diameter of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/561. Array Partition I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/67. Add Binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/707. Design Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/844. Backspace String Compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Two Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1046. Last Stone Weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1089. Duplicate Zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1295. Find Numbers with Even Number of Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1299. Replace Elements with Greatest Element on Right Side.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/133. Clone Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1346. Check If N and Its Double Exist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/152. Maximum Product Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20. Valid Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/200. Number of Islands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/217. Contains Duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/219. Contains Duplicate II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22. Generate Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/232. Implement Queue using Stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238. Product of Array Except Self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/279. Perfect Squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/430. Flatten a Multilevel Doubly Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/442. Find All Duplicates in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/494. Target Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/525. Contiguous Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/54. Spiral Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/599. Minimum Index Sum of Two Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61. Rotate List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64. Minimum Path Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/678. Valid Parenthesis String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Reverse Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/733. Flood Fill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/739. Daily Temperatures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/841. Keys and Rooms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/852. Peak Index in a Mountain Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/905. Sort Array By Parity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/941. Valid Mountain Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/977. Squares of a Sorted Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/209. Minimum Size Subarray Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/209. Minimum Size Subarray Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +64,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRank_DataStructures" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Python.287. Find the Duplicate Number">
     <configuration name="1381. Design a Stack With Increment Operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -198,22 +213,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585979363540" />
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1586237436123">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1586677158115">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586237436123" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1586237436123">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586677158115" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1586677158115">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586237436123" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1586237436122">
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586677158115" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1586677158115">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586237436122" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1586237436123">
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586677158115" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1586677158115">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586237436123" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586677158115" />
     <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1585985286027">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -230,14 +245,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585985286027" />
-    <state x="277" y="75" key="SettingsEditor" timestamp="1585979372131">
+    <state x="277" y="75" key="SettingsEditor" timestamp="1586919608136">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585979372131" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585450285209">
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586919608136" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587102583233">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585450285209" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587102583233" />
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586879955487">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586879955487" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
