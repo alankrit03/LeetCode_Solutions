@@ -2,39 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1. Two Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1046. Last Stone Weight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1089. Duplicate Zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1295. Find Numbers with Even Number of Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1299. Replace Elements with Greatest Element on Right Side.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/133. Clone Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1346. Check If N and Its Double Exist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/152. Maximum Product Subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20. Valid Parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/200. Number of Islands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/217. Contains Duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219. Contains Duplicate II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Generate Parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/232. Implement Queue using Stacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/238. Product of Array Except Self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/279. Perfect Squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/430. Flatten a Multilevel Doubly Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/442. Find All Duplicates in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/494. Target Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/525. Contiguous Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/54. Spiral Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/599. Minimum Index Sum of Two Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61. Rotate List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/64. Minimum Path Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/678. Valid Parenthesis String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Reverse Integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/733. Flood Fill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/739. Daily Temperatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/841. Keys and Rooms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/852. Peak Index in a Mountain Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/905. Sort Array By Parity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/941. Valid Mountain Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/977. Squares of a Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1008. Construct Binary Search Tree from Preorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Container With Most Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1163. Longest Common Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/146. LRU Cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190. Reverse Bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201. Bitwise AND of Numbers Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/204. Count Primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/221. Maximal Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/231. Power of Two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/268. Missing Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/342. Power of Four.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/347. Top K Frequent Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36. Valid Sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/387. First Unique Character in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/389. Find the Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39. Combination Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/412. Fizz Buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/461. Hamming Distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/560. Subarray Sum Equals K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62. Unique Paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63. Unique Paths II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/652. Find Duplicate Subtrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/692. Top K Frequent Words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/771. Jewels and Stones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/84. Largest Rectangle in Histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/85. Maximal Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/912. Sort an Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,31 +59,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRank_DataStructures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerEarth_Solutions" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.287. Find the Duplicate Number">
-    <configuration name="1381. Design a Stack With Increment Operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode_Solutions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1381. Design a Stack With Increment Operation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.201. Bitwise AND of Numbers Range">
     <configuration name="154. Find Minimum in Rotated Sorted Array II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +76,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/154. Find Minimum in Rotated Sorted Array II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="201. Bitwise AND of Numbers Range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode_Solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201. Bitwise AND of Numbers Range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="367. Valid Perfect Square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="39. Combination Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/367. Valid Perfect Square.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39. Combination Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.201. Bitwise AND of Numbers Range" />
+        <item itemvalue="Python.39. Combination Sum" />
         <item itemvalue="Python.287. Find the Duplicate Number" />
         <item itemvalue="Python.154. Find Minimum in Rotated Sorted Array II" />
         <item itemvalue="Python.283. Move Zeroes" />
-        <item itemvalue="Python.367. Valid Perfect Square" />
-        <item itemvalue="Python.1381. Design a Stack With Increment Operation" />
       </list>
     </recent_temporary>
   </component>
@@ -209,60 +205,57 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1585979363540">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1587468125692">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585979363540" />
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1586677158115">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587468125692" />
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1587653557125">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586677158115" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1586677158115">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587653557125" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1587653557125">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586677158115" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1586677158115">
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587653557125" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1587653557125">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586677158115" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1586677158115">
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587653557125" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1587653557125">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586677158115" />
-    <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1585985286027">
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587653557125" />
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1587366558770">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585985286027" />
-    <state width="1514" height="277" key="GridCell.Tab.1.center" timestamp="1585985286027">
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587366558770" />
+    <state width="1514" height="277" key="GridCell.Tab.1.center" timestamp="1587366558770">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585985286027" />
-    <state width="1514" height="277" key="GridCell.Tab.1.left" timestamp="1585985286026">
+    <state width="1514" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587366558770" />
+    <state width="1514" height="277" key="GridCell.Tab.1.left" timestamp="1587366558770">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585985286026" />
-    <state width="1514" height="277" key="GridCell.Tab.1.right" timestamp="1585985286027">
+    <state width="1514" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587366558770" />
+    <state width="1514" height="277" key="GridCell.Tab.1.right" timestamp="1587366558770">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585985286027" />
+    <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587366558770" />
     <state x="277" y="75" key="SettingsEditor" timestamp="1586919608136">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586919608136" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587102583233">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587874852799">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587102583233" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587874852799" />
+    <state x="677" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1587636172524">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="677" y="150" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1587636172524" />
     <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586879955487">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586879955487" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="nums[m]" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
