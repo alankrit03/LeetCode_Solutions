@@ -2,35 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1008. Construct Binary Search Tree from Preorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Container With Most Water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1163. Longest Common Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/146. LRU Cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190. Reverse Bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/201. Bitwise AND of Numbers Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/204. Count Primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/221. Maximal Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/231. Power of Two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/268. Missing Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/342. Power of Four.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/347. Top K Frequent Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36. Valid Sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/387. First Unique Character in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/389. Find the Difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39. Combination Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/412. Fizz Buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/461. Hamming Distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/560. Subarray Sum Equals K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/62. Unique Paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/63. Unique Paths II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/652. Find Duplicate Subtrees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/692. Top K Frequent Words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/771. Jewels and Stones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/84. Largest Rectangle in Histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/85. Maximal Rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/912. Sort an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1002. Find Common Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1013. Partition Array Into Three Parts With Equal Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1042. Flower Planting With No Adjacent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1051. Height Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1122. Relative Sort Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1137. N-th Tribonacci Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1160. Find Words That Can Be Formed by Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1170. Compare Strings by Frequency of the Smallest Character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1184. Distance Between Bus Stops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1185. Day of the Week.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1200. Minimum Absolute Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1217. Play with Chips.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1252. Cells with Odd Values in a Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1260. Shift 2D Grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1266. Minimum Time Visiting All Points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1287. Element Appearing More Than 25% In Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1304. Find N Unique Integers Sum up to Zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1313. Decompress Run-Length Encoded List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1331. Rank Transform of an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1337. The K Weakest Rows in a Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1365. How Many Numbers Are Smaller Than the Current Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1399. Count Largest Group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1403. Minimum Subsequence in Non-Increasing Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1450. Number of Students Doing Homework at a Given Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1460. Make Two Arrays Equal by Reversing Sub-arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1464. Maximum Product of Two Elements in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/172. Factorial Trailing Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/208. Implement Trie (Prefix Tree).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/237. Delete Node in a Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/242. Valid Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/258. Add Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/263. Ugly Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/292. Nim Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/322. Coin Change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/338. Counting Bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38. Count and Say.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404. Sum of Left Leaves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/438. Find All Anagrams in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/448. Find All Numbers Disappeared in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/477. Total Hamming Distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48. Rotate Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/506. Relative Ranks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/520. Detect Capital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/551. Student Attendance Record I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/566. Reshape the Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58. Length of Last Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/693. Binary Number with Alternating Bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/75. Sort Colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/766. Toeplitz Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. String to Integer (atoi).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/832. Flipping an Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/867. Transpose Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/888. Fair Candy Swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/894. All Possible Full Binary Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/896. Monotonic Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/901. Online Stock Span.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/918. Maximum Sum Circular Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/922. Sort Array By Parity II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/938. Range Sum of BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/985. Sum of Even Numbers After Queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/999. Available Captures for Rook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word Search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +98,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerEarth_Solutions" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.201. Bitwise AND of Numbers Range">
+  <component name="RunManager" selected="Python.75. Sort Colors">
     <configuration name="154. Find Minimum in Rotated Sorted Array II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,27 +133,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201. Bitwise AND of Numbers Range.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="283. Move Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode_Solutions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/283. Move Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,13 +183,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="75. Sort Colors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode_Solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/75. Sort Colors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.75. Sort Colors" />
         <item itemvalue="Python.201. Bitwise AND of Numbers Range" />
         <item itemvalue="Python.39. Combination Sum" />
         <item itemvalue="Python.287. Find the Duplicate Number" />
         <item itemvalue="Python.154. Find Minimum in Rotated Sorted Array II" />
-        <item itemvalue="Python.283. Move Zeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -205,26 +241,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1587468125692">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1588320288811">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587468125692" />
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1587653557125">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1588320288811" />
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1589087209772">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587653557125" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1587653557125">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589087209772" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1589087209772">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587653557125" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1587653557125">
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589087209772" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1589087209772">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587653557125" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1587653557125">
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589087209772" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1589087209772">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587653557125" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589087209772" />
     <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1587366558770">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -245,10 +281,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586919608136" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587874852799">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1591414679468">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587874852799" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591414679468" />
     <state x="677" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1587636172524">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
