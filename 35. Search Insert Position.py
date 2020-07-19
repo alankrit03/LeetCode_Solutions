@@ -1,19 +1,15 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        l = 0
-        h = len(nums) - 1
+        if not nums:
+            return 0
 
-        while (l <= h):
+        l, h = -1, len(nums)
+
+        while h - l > 1:
             m = (l + h) // 2
-            # print(f'l{l} , h{h} , m{m}')
-            # print(nums[m])
-            if nums[m] == target:
-                return m
 
-            elif nums[m] > target:
-                h = m - 1
+            if nums[m] < target:
+                l = m
             else:
-                l = m + 1
-
-        else:
-            return l
+                h = m
+        return h
