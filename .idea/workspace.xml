@@ -2,31 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1025. Divisor Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/110. Balanced Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1161. Maximum Level Sum of a Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1302. Deepest Leaves Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1344. Angle Between Hands of a Clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215. Kth Largest Element in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23. Merge k Sorted Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/392. Is Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/429. N-ary Tree Level Order Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/559. Maximum Depth of N-ary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/589. N-ary Tree Preorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/590. N-ary Tree Postorder Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/690. Employee Importance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/703. Kth Largest Element in a Stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/728. Self Dividing Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/729. My Calendar I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/933. Number of Recent Calls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode_Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode_Solutions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1010. Pairs of Songs With Total Durations Divisible by 60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1011. Capacity To Ship Packages Within D Days.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1019. Next Greater Node In Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1022. Sum of Root To Leaf Binary Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1034. Coloring A Border.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/113. Path Sum II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1138. Alphabet Board Path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/114. Flatten Binary Tree to Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1201. Ugly Number III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1261. Find Elements in a Contaminated Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/129. Sum Root to Leaf Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1290. Convert Binary Number in a Linked List to Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1305. All Elements in Two Binary Search Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1315. Sum of Nodes with Even-Valued Grandparent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1376. Time Needed to Inform All Employees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1404. Number of Steps to Reduce a Number in Binary Representation to One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1448. Count Good Nodes in Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1470. Shuffle the Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1480. Running Sum of 1d Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1486. XOR Operation in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1512. Number of Good Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/207. Course Schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210. Course Schedule II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/211. Add and Search Word - Data structure design.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/213. House Robber II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/222. Count Complete Tree Nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/289. Game of Life.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/300. Longest Increasing Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/337. House Robber III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/354. Russian Doll Envelopes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Median of Two Sorted Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/409. Longest Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/410. Split Array Largest Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/437. Path Sum III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46. Permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Longest Palindromic Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/513. Find Bottom Left Tree Value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/515. Find Largest Value in Each Tree Row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/516. Longest Palindromic Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/530. Minimum Absolute Difference in BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/547. Friend Circles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/563. Binary Tree Tilt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/581. Shortest Unsorted Continuous Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/605. Can Place Flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/617. Merge Two Binary Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/628. Maximum Product of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/637. Average of Levels in Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/647. Palindromic Substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/654. Maximum Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/668. Kth Smallest Number in Multiplication Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/684. Redundant Connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/710. Random Pick with Blacklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/719. Find K-th Smallest Pair Distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/797. All Paths From Source to Target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/82. Remove Duplicates from Sorted List II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/863. All Nodes Distance K in Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/872. Leaf-Similar Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/875. Koko Eating Bananas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/897. Increasing Order Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/96. Unique Binary Search Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/965. Univalued Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/988. Smallest String Starting From Leaf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/998. Maximum Binary Tree II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/35. Search Insert Position.py" beforeDir="false" afterPath="$PROJECT_DIR$/35. Search Insert Position.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +100,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerEarth_Solutions" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.3Sum">
-    <configuration name="201. Bitwise AND of Numbers Range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1201. Ugly Number III">
+    <configuration name="1138. Alphabet Board Path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201. Bitwise AND of Numbers Range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1138. Alphabet Board Path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1201. Ugly Number III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1201. Ugly Number III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="703. Kth Largest Element in a Stream" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1482. Minimum Number of Days to Make m Bouquets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/703. Kth Largest Element in a Stream.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="75. Sort Colors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="210. Course Schedule II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +176,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/75. Sort Colors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210. Course Schedule II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="719. Find K-th Smallest Pair Distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode_Solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +197,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/719. Find K-th Smallest Pair Distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3Sum" />
-        <item itemvalue="Python.703. Kth Largest Element in a Stream" />
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.75. Sort Colors" />
-        <item itemvalue="Python.201. Bitwise AND of Numbers Range" />
+        <item itemvalue="Python.1201. Ugly Number III" />
+        <item itemvalue="Python.719. Find K-th Smallest Pair Distance" />
+        <item itemvalue="Python.1482. Minimum Number of Days to Make m Bouquets" />
+        <item itemvalue="Python.1138. Alphabet Board Path" />
+        <item itemvalue="Python.210. Course Schedule II" />
       </list>
     </recent_temporary>
   </component>
@@ -204,60 +247,236 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1594814049431" />
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1594814394577">
+    <state width="1514" height="277" key="GridCell.Tab.0.bottom" timestamp="1596731274347">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594814394577" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1594814394577">
+    <state width="1514" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596731274347" />
+    <state width="1514" height="277" key="GridCell.Tab.0.center" timestamp="1596731274347">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1594814394577" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1594814394577">
+    <state width="1514" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1596731274347" />
+    <state width="1514" height="277" key="GridCell.Tab.0.left" timestamp="1596731274347">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1594814394577" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1594814394577">
+    <state width="1514" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1596731274347" />
+    <state width="1514" height="277" key="GridCell.Tab.0.right" timestamp="1596731274347">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1594814394577" />
-    <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1594625803009">
+    <state width="1514" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1596731274347" />
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1596731274347">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594625803009" />
-    <state width="1514" height="277" key="GridCell.Tab.1.center" timestamp="1594625803009">
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596731274347" />
+    <state width="1514" height="277" key="GridCell.Tab.1.center" timestamp="1596731274347">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1594625803009" />
-    <state width="1514" height="277" key="GridCell.Tab.1.left" timestamp="1594625803009">
+    <state width="1514" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1596731274347" />
+    <state width="1514" height="277" key="GridCell.Tab.1.left" timestamp="1596731274347">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1594625803009" />
-    <state width="1514" height="277" key="GridCell.Tab.1.right" timestamp="1594625803009">
+    <state width="1514" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1596731274347" />
+    <state width="1514" height="277" key="GridCell.Tab.1.right" timestamp="1596731274347">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1594625803009" />
+    <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1596731274347" />
     <state x="277" y="75" key="SettingsEditor" timestamp="1594814184815">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1594814184815" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595131324054">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1596544337088">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1595131324054" />
-    <state x="677" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1587636172524">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="677" y="150" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1587636172524" />
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586879955487">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586879955487" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1596544337088" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/210. Course Schedule II.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1138. Alphabet Board Path.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1482. Minimum Number of Days to Make m Bouquets.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="self.arr[(i - 1) // 2]" language="Python" />
-        <watch expression="self.arr[i]" language="Python" />
+        <watch expression="h" language="Python" />
+        <watch expression="l" language="Python" />
       </configuration>
     </watches-manager>
   </component>
