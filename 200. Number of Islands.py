@@ -6,7 +6,10 @@ class Solution:
         m = len(grid)
         n = len(grid[0])
 
-        def bfs(grid, i, j):
+        dr = [-1,0,1,0]
+        dc = [0,1,0,-1]
+
+        def dfs(i, j):
             """This function here works recursively and changes all touching '1' to '0'.
             This ensures that one island is counted only a single time."""
             if i < 0 or i >= m or j < 0 or j >= n or grid[i][j] == '0':
@@ -14,10 +17,8 @@ class Solution:
 
             grid[i][j] = '0'
 
-            bfs(grid, i - 1, j)
-            bfs(grid, i + 1, j)
-            bfs(grid, i, j - 1)
-            bfs(grid, i, j + 1)
+            for d in range(4):
+                dfs(i+dr[d], j+dc[d])
 
         for i in range(m):
             for j in range(n):
@@ -25,6 +26,6 @@ class Solution:
                 If we get any '1' here then we pass on the co-ordinates to 'BFS' function."""
                 if grid[i][j] == '1':
                     ans += 1
-                    bfs(grid, i, j)
+                    dfs(i, j)
 
         return ans

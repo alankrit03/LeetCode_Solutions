@@ -5,13 +5,11 @@ class Solution:
 
         i = j = 0
 
-        while j < len(A) and A[j] % 2:
-            j += 1
-
         while j < len(A):
-            A[i], A[j] = A[j], A[i]
-            i += 1
-            j += 1
+            if i!=j:
+                A[i], A[j] = A[j], A[i]
+                i += 1
+                j += 1
             while j < len(A) and A[j] % 2:
                 j += 1
 

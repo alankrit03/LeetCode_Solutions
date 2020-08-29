@@ -6,20 +6,21 @@
 #         self.right = right
 class Solution:
     def sumOfLeftLeaves(self, root: TreeNode) -> int:
-        if not root:
-            return 0
-
         self.ans = 0
 
-        def recur(root):
-            if not root:
+        def dfs(node, side=None):
+            if not node:
                 return
 
-            if root.left and (not root.left.left and not root.left.right):
-                self.ans += root.left.val
+            if not node.left and (not node.right):
+                if node is root:
+                    return
+                if side == 'left':
+                    self.ans += node.val
+                return
 
-            recur(root.left)
-            recur(root.right)
+            dfs(node.left, 'left')
+            dfs(node.right, 'right')
 
-        recur(root)
+        dfs(root)
         return self.ans

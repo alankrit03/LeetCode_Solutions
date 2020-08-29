@@ -42,7 +42,7 @@ class Solution:
             while head2:
                 temp = head2
                 head2 = head2.next
-                ptr2 = ptr.next
+                ptr2 = ptr.nextsor
                 ptr.next = temp
                 temp.next = ptr2
                 ptr = ptr2
