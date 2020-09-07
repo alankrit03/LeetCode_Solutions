@@ -2,68 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3984198-ae99-478e-810a-08fdfe769578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1020. Number of Enclaves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1108. Defanging an IP Address.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1128. Number of Equivalent Domino Pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1207. Unique Number of Occurrences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1254. Number of Closed Islands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1283. Find the Smallest Divisor Given a Threshold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1286. Iterator for Combination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1306. Jump Game III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1333. Filter Restaurants by Vegan-Friendly, Price and Distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1338. Reduce Array Size to The Half.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1423. Maximum Points You Can Obtain from Cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1436. Destination City.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1475. Final Prices With a Special Discount in a Shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1524. Number of Sub-arrays With Odd Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1534. Count Good Triplets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16. 3Sum Closest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/168. Excel Sheet Column Title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/171. Excel Sheet Column Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18. 4Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/264. Ugly Number II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274. H-Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275. H-Index II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/295. Find Median from Data Stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/313. Super Ugly Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/319. Bulb Switcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/334. Increasing Triplet Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/345. Reverse Vowels of a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40. Combination Sum II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/436. Find Right Interval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45. Jump Game II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/452. Minimum Number of Arrows to Burst Balloons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/454. 4Sum II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/459. Repeated Substring Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/52. N-Queens II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/523. Continuous Subarray Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/529. Minesweeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55. Jump Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/576. Out of Boundary Paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/657. Robot Return to Origin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/686. Repeated String Match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/73. Set Matrix Zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/74. Search a 2D Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/77. Combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/804. Unique Morse Code Words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/819. Most Common Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/848. Shifting Letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/967. Numbers With Same Consecutive Differences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/979. Distribute Coins in Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/983. Minimum Cost For Tickets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/994. Rotting Oranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1026. Maximum Difference Between Node and Ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1491. Average Salary Excluding the Minimum and Maximum Salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1502. Can Make Arithmetic Progression From Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1550. Three Consecutive Odds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1561. Maximum Number of Coins You Can Get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220. Contains Duplicate III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47. Permutations II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/535. Encode and Decode TinyURL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/661. Image Smoother.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/763. Partition Labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/784. Letter Case Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/811. Subdomain Visit Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/949. Largest Time for Given Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/952. Largest Component Size by Common Factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/961. N-Repeated Element in Size 2N Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/143. Reorder List.py" beforeDir="false" afterPath="$PROJECT_DIR$/143. Reorder List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200. Number of Islands.py" beforeDir="false" afterPath="$PROJECT_DIR$/200. Number of Islands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/354. Russian Doll Envelopes.py" beforeDir="false" afterPath="$PROJECT_DIR$/354. Russian Doll Envelopes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/37. Sudoku Solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/37. Sudoku Solver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/15. 3Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404. Sum of Left Leaves.py" beforeDir="false" afterPath="$PROJECT_DIR$/404. Sum of Left Leaves.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/905. Sort Array By Parity.py" beforeDir="false" afterPath="$PROJECT_DIR$/905. Sort Array By Parity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/547. Friend Circles.py" beforeDir="false" afterPath="$PROJECT_DIR$/547. Friend Circles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,10 +232,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598165630111" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1598712065875">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1599300266398">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1598712065875" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1599300266398" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
