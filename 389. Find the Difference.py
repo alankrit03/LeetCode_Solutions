@@ -10,3 +10,18 @@ class Solution:
             total_2 += ord(x)
 
         return chr(total_2 - total_1)
+
+
+"""''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Approach 2:
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"""
+
+
+class Solution:
+    def findTheDifference(self, s: str, t: str) -> str:
+        t = collections.Counter(t)
+        for x in s:
+            t[x] -= 1
+
+        return t.most_common(1)[0][0]
